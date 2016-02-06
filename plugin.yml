@@ -1,0 +1,7 @@
+name: IgnitionGangs
+main: IgnitionGangs.Main
+version: 0.0.1
+commands:
+   gang:
+      description: Gangs
+      usage: /<command>
